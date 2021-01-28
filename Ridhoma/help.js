@@ -4,8 +4,8 @@ const help = (prefix) => {
 ┃ *⚠️ NO SPAM! NO CALL!!! ⚠️*
 ┃      *LANGGAR AUTO BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ OWNER : *RAMLAN*
-┃⊱❥ AKTIF : *08:00-22:00 WIB*
+┃⊱❥ OWNER : *RidhoMaulanaAbdi*
+┃⊱❥ AKTIF : *09:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSION : 1.1
 ┣━━━━━━━━━━━━━━━━━━━━┛
@@ -104,7 +104,7 @@ const help = (prefix) => {
 ┃➢ ${prefix}clearall
 ┃➢ ${prefix}clone
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⟪ POWERED BY *RAMLAN* ⟫
+┃⟪ POWERED BY *RIDHOBOT* ⟫
 ┣━━━━━━━━━━━━━━━━━━━━┓
 `
 }
